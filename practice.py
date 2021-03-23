@@ -54,21 +54,3 @@ while 1:
         raw_data[i][1] = resis[i]
     print(raw_data)
 
-# raw_data_전국_r2 = 
-# raw_data_서울_r2 = 
-# raw_data_부산_r2 = 
-# raw_data_대구_r2 = 
-# raw_data_인천_r2 = 
-# raw_data_광주_r2 = 
-# raw_data_대전_r2 = 
-# raw_data_울산_r2 = 
-# raw_data_세종_r2 =
-# raw_data_제주_r2 = 
-# raw_data_경기_r2 = 
-# raw_data_충북_r2 = 
-# raw_data_충남_r2 = 
-# raw_data_전북_r2 = 
-# raw_data_전남_r2 = 
-# raw_data_경북_r2 =
-# raw_data_경남_r2 = 
-
